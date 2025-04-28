@@ -4,7 +4,8 @@ Frontend engineer from Saint Petersburg, Russia
 -----------------------------------------------
 
 After a little break, I’m back to coding! 
-🎮 Right now, I’m working on a small pet project and diving into TypeScript. Excited to level up my skills! 💪
+🎮 Right now, I’m working on a small pet project and diving into TypeScript. 
+Excited to level up my skills! 💪
 📫 How to reach me: Telegram @oshusha
 
 ### Skills
